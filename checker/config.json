@@ -1,0 +1,10 @@
+{
+  "language": ".NET",
+  "test_command": [
+    "dotnet",
+    "test",
+    "tests/Recommendations.Tests",
+    "--nologo"
+  ],
+  "test_hint": "dotnet test tests/Recommendations.Tests"
+}
